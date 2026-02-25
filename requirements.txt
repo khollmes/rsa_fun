@@ -1,0 +1,4 @@
+# RSA Encryption Visualizer
+# All dependencies are part of the Python standard library (tkinter, math, random).
+# No additional packages are required.
+# Python >= 3.8 recommended.
